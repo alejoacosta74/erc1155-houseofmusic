@@ -1,0 +1,50 @@
+[
+	{
+		"name": "artistName",
+		"title": "Artist name",
+		"type": "text",
+		"placeholder": "Pink Floyd"
+
+	},
+	{
+		"name": "organizerAddress",
+		"title": "Organizer address (ethereum address)",
+		"type": "text",
+		"placeholder": "0x123456789..."
+	},
+	{
+		"name": "concertDescription",
+		"title": "Concert description",
+		"type": "textarea"
+	},
+	{
+		"name": "tokenName",
+		"title": "Token Name",
+		"type": "text",
+		"placeholder": "Pink Floyd"
+	},
+	{
+		"name": "tokenSymbol",
+		"title": "Token Symbol",
+		"type": "text",
+		"placeholder": "PF"
+
+	},
+	{
+		"name": "totalSupply",
+		"title": "Total supply",
+		"type": "number",
+		"placeholder": 1000000
+	},
+	{
+		"name": "tokenPrice",
+		"title": "Token price (in ETH)",
+		"type": "number",
+		"placeholder": 1
+	},
+	{
+		"name": "uploadImage",
+		"title": "Upload Image (<500 KB)",
+		"type": "file"
+	}
+]
